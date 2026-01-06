@@ -187,7 +187,7 @@ Email: admin@gmail.com
 Password: admin123
 
 Employee
-Email: employee@gmail.com
+Email: employee@gmail.com     --use mike/jake/johndoe/janesmith instead of employee
 Password: emp123
 
 📊 Dashboard Highlights
